@@ -1,1 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T21:33:04.897Z" agent="5.0 (Windows)" version="20.6.2" etag="UW0rTMKgYOkz1GTb5ldK" type="github"><diagram id="u91hX-3tH9TnbUYlnvgd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-11T21:54:15.165Z" agent="5.0 (Windows)" version="20.6.2" etag="vkpHGpUiLKTgetiV0YkI" type="github" pages="2">
+  <diagram id="h48Nm7btlSgxh3D_arZk" name="Page-1">
+    <mxGraphModel dx="813" dy="501" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kzBJagV7p6KlzC-unJlh-7" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=123;tabHeight=21;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="95.5" width="659" height="231" as="geometry" />
+        </mxCell>
+        <mxCell id="kzBJagV7p6KlzC-unJlh-5" value="&lt;div align=&quot;left&quot;&gt;CodeArray[]&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;extracted_number&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;country_code&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;country_code_validator()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;country_code()&lt;br&gt;&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=138;tabHeight=19;tabPosition=left;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="380" y="148" width="196" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="kzBJagV7p6KlzC-unJlh-6" value="CountryCodes&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="372" y="145.5" width="114" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="kzBJagV7p6KlzC-unJlh-2" value="&lt;div align=&quot;left&quot;&gt;Number &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Country code&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;digit_length_validator()&lt;br&gt;&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=95;tabHeight=19;tabPosition=left;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="103" y="145.5" width="191" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="kzBJagV7p6KlzC-unJlh-3" value="PhoneParser" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="97" y="142" width="91" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="kzBJagV7p6KlzC-unJlh-8" value="pkg PhoneParser" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="71" y="93" width="114" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="kzBJagV7p6KlzC-unJlh-9" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0;exitDx=191;exitDy=72.5;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=70;entryPerimeter=0;" edge="1" parent="1" source="kzBJagV7p6KlzC-unJlh-2" target="kzBJagV7p6KlzC-unJlh-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="361" y="384" as="sourcePoint" />
+            <mxPoint x="521" y="384" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kzBJagV7p6KlzC-unJlh-10" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kzBJagV7p6KlzC-unJlh-9">
+          <mxGeometry x="0.1417" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Agpigz9AjpSO7AblUk5b" name="Page-2">
+    <mxGraphModel dx="1219" dy="752" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
